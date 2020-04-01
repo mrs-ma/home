@@ -1,0 +1,12 @@
+.home-menu {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+  }
+  
+  .home-menu .am-tabs-tab-bar-wrap {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
